@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tirthanakar97
+- 👋 Hi, I’m @Tirthankar97
 - 👀 I’m interested in earth science and spatial data
 - 🌱 I’m currently learning geospatial data science
 - 💞️ I’m looking to collaborate on ...
