@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tirthanka
+- 👋 Hi, I’m @Tirthankar
 - 👀 I’m interested in glaciers and spatial data science
 - 🌱 I’m currently learning geospatial data science
 - 💞️ I’m looking to collaborate on glacier studies 
