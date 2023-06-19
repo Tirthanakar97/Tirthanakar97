@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tirthankar97
-- 👀 I’m interested in earth science and spatial data
+- 👋 Hi, I’m @Tirthanka
+- 👀 I’m interested in glaciers and spatial data science
 - 🌱 I’m currently learning geospatial data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- mail me on tirthankar_97@yahoo.com
+- 💞️ I’m looking to collaborate on glacier studies 
+- 📫 How to reach me- mail me on tirthankarg97@gmail.com
 
 <!---
 Tirthanakar97/Tirthanakar97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
